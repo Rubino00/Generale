@@ -1,4 +1,6 @@
 
+# vediamo cosa si modifica con il comando "set"
 lista_gen = [1 , 4 , 5 , 4 , 3 , 2 , 2 , 1]
 set_list = list (set (lista_gen))
 print (set_list)
+
